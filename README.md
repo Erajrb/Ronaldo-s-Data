@@ -1,4 +1,4 @@
-# Ronaldo-s-Data
+# Data Analysis and visualization for Cristiano Ronaldos data
 
 This was a short task i did on the detailed data of every goal that Cristiano Ronaldo has scored upto 2022.
 I have also visualized the output of the tasks performed on the data set into bar graphs and charts.
